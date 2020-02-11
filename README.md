@@ -1,5 +1,5 @@
 # WebServiceWeather
-nstall your app package using an install script
+Install your app package using an install script
 Open the *_Test folder.
 
 Right-click on the Add-AppDevPackage.ps1 file. Choose Run with PowerShell and follow the prompts.
